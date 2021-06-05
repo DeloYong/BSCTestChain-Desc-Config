@@ -11,6 +11,9 @@
 
 [水龙头领BNB](https://testnet.binance.org/faucet-smart)
 
+
+[薄饼UI组件](https://pancakeswap.github.io/pancake-uikit/)
+
 配置
 ```sh
 Network Name: BSC Testnet
